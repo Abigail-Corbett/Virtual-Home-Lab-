@@ -60,7 +60,7 @@ I successfully deployed the Metasploitable 2 node and utilized the `ifconfig` co
 ### System Integrity Procedure
 To prevent filesystem corruption, all nodes follow a strict Graceful Shutdown protocol:
 
-* **Metasploitable 2**: ```bash sudo shutdown -h now ```
+* **Metasploitable 2**: ```sudo shutdown -h now ```
 
 * **Kali Linux**: Selected "Shut Down" from the application menu.
 
