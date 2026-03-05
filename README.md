@@ -1,7 +1,7 @@
 # Virtual-Home-Lab
 
 ## Project Overview
-This repository documents the architecture and execution of a localized cybersecurity laboratory. The main objective was to simulate a **controlled environment** for practicing penetration testing methodologies, vulnerability assessment, and secure network configuration.
+This repository documents the architecture and execution of a localized cybersecurity laboratory. The main objective was to simulate a controlled environment for practicing penetration testing methodologies, vulnerability assessment, and secure network configuration.
 
 ## Tech Stack
 * **Virtualization:** Oracle VirtualBox
