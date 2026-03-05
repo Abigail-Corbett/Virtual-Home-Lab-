@@ -57,7 +57,7 @@ I successfully deployed the Metasploitable 2 node and utilized the `ifconfig` co
 ```
 * **Result** Successfully obtained a new IP address, enabling "ping" requests between nodes.
 
-## System Integrity Procedure
+### System Integrity Procedure
 To prevent filesystem corruption, all nodes follow a strict Graceful Shutdown protocol:
 
 * **Metasploitable 2**: ```bash sudo shutdown -h now ```
