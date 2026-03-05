@@ -10,6 +10,7 @@ Networking: Host-Only Adapter (Isolated envoriment for maximum saftey)
 
 **Lab Architecture**<br>
 The Lab has two virtual machines connected via a virtualized private network to ensure no traffic escapes to the public internet. <br>
+
 *Machine   |  Role    | Operating System* <br>
 K-Node-01 | Attacker |  Kali Linux<br>
 M-Node-02 | Victim   |  Metasploitable 2
