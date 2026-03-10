@@ -75,4 +75,5 @@ To prevent filesystem corruption, all nodes follow a strict Graceful Shutdown pr
 ---
 
 ## Author 
-Abigail Corbett 
+Abigail Corbett <br> 
+March 5th, 2026
